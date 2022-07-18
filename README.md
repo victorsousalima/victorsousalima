@@ -3,6 +3,12 @@
 - 🔭 Atualmente não trabalho na área de Programação, mais estou a procura de vagas!
 - 🌱 Estou estudando Python e Banco de Dados
 
+<div align="center">
+  <a href="https://github.com/victorsousalima">
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsousalima&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br>
 
 
 <div style="display: inline_block" align="center"><br>
