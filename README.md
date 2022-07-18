@@ -4,13 +4,6 @@
 - 🌱 Estou estudando Python e Banco de Dados
 
 
-<div align="center">
-  <a href="https://github.com/victorsousalima">
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsousalima&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br>
-
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Victor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
