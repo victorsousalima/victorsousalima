@@ -1,7 +1,7 @@
 ### Olá! Me chamo Victor
 
 - 🔭 Atualmente não trabalho na área de Programação, mais estou a procura de vagas!
-- 🌱 Estou estudando Java e Banco de Dados
+- 🌱 Estou estudando JPA/Hibernate e SpringBoot
 
 
 <div style="display: inline_block" align="center"><br>
