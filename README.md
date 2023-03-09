@@ -10,6 +10,7 @@
   <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
+### 📚 Linguagens:  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsousalima&layout=hide_border=true&theme=dark&show_icons=true&hide=Jupyter%20Notebook)
 
 ##
 
