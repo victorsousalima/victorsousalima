@@ -32,10 +32,6 @@
 
 > * ![Intellij Idea](https://img.shields.io/badge/-Intellij-181717?&logo=IntellijIdea&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
 
-### 🐧 OS
-
-> * ![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=FFFFFF)
-
 
 
 ## **Entre em Contato!** 😉
