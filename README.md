@@ -1,7 +1,7 @@
 ### Olá! Me chamo Victor 😉
 
 - 🔭 Atualmente não trabalho na área de Desenvolvimento, mas estou a procura de vagas!
-- 📚 Estou estudando JPA/Hibernate e SpringBoot
+- 📚 Estou estudando .NET 6/7/8 e C#
 - 🎓 Estudando Engenharia de Software na <a href="https://www.unicesumar.edu.br/home/">UniCesumar</a>
 
 <hr>
