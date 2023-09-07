@@ -12,8 +12,14 @@
 
 > * ![Java](https://img.shields.io/badge/-JAVA-181717?&logo=java&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-181717?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-181717?&logo=css3&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsousalima&layout=hide_border=true&theme=dark&show_icons=true&hide=Jupyter%20Notebook)
-
+##
+<div align="center">
+  <a href="https://github.com/victorsousalima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsousalima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsousalima&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<hr>
+<div> 
 
 ### 🤖 Frameworks & Libs
 
