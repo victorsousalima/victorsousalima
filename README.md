@@ -1,7 +1,7 @@
 ### Olá! Me chamo Victor 😉
 
 - 🔭 Atualmente não trabalho na área de Desenvolvimento, mas estou a procura de vagas!
-- 📚 Estou estudando FastAPI, MongoDB, Docker e AWS.
+- 📚 Estou estudando ecossistema Spring, MongoDB, Docker e AWS.
 - 🎓 Estudando Engenharia de Software na <a href="https://www.unicesumar.edu.br/home/">UniCesumar</a>
 
 <hr>
