@@ -23,21 +23,24 @@
 
 ### 🤖 Frameworks & Libs
 
-> * ![Spring](https://img.shields.io/badge/-Spring-181717?&logo=Spring&logoColor=FFFFFF)
+> * ![Spring](https://img.shields.io/badge/-Spring-181717?&logo=Spring&logoColor=FFFFFF) ![FastAPI](https://img.shields.io/badge/-FastAPI-181717?&logo=FastAPI&logoColor=FFFFFF)
 
 
 ### 🖥 DataBases
 
-> * ![MySql](https://img.shields.io/badge/-MySql-181717?&logo=MySQL&logoColor=FFFFFF)
+> * ![MySql](https://img.shields.io/badge/-MySql-181717?&logo=MySQL&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?&logo=postgresql&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?&logo=mongodb&logoColor=FFFFFF)
 
 ### 🧰 Tools
 
-> * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-181717?&logo=Postman&logoColor=FFFFFF) 
+> * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-181717?&logo=Postman&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-181717?&logo=Docker&logoColor=FFFFFF) ![WSL2](https://img.shields.io/badge/-WSL2-181717?&logo=microsoft&logoColor=FFFFFF)
 
 ### 💚 IDE'S & Code editors
 
 > * ![Intellij Idea](https://img.shields.io/badge/-Intellij-181717?&logo=IntellijIdea&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
 
+### 🐧 OS
+
+> * ![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=FFFFFF)
 
 
 ## **Entre em Contato!** 😉
