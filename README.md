@@ -10,7 +10,7 @@
 
 ### ⚡ Programming and Markup languages
 
-> * ![Java](https://img.shields.io/badge/-JAVA-181717?&logo=java&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-181717?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-181717?&logo=css3&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF)
+> * ![Java](https://img.shields.io/badge/-JAVA-181717?&logo=java&logoColor=FFFFFF) [Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-181717?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-181717?&logo=css3&logoColor=FFFFFF) !
 
 ##
 <div align="center">
