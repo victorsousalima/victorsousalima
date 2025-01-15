@@ -1,7 +1,7 @@
 ### Olá! Me chamo Victor 😉
 
-- 🔭 Atualmente não trabalho na área de Desenvolvimento, mas estou a procura de vagas!
-- 📚 Estou estudando C#.
+- 🔭 Atualmente trabalho como Junior Backend Developer na BDO BRAZIL!
+- 📚 Estou estudando Arquitetura de software, Padrões de projetos (Clean code, SOLID) e Cloud Computing, focando na stack Java e Spring.
 - 🎓 Estudando Engenharia de Software na <a href="https://www.unicesumar.edu.br/home/">UniCesumar</a>
 
 <hr>
