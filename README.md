@@ -1,6 +1,6 @@
 ### Olá! Me chamo Victor 😉
 
-- 🔭 Atualmente trabalho como Junior Backend Developer na BDO BRAZIL!
+- 🔭 Atualmente trabalho como Backend Developer na Buttini Moraes!
 - 📚 Estou estudando C# e .NET (ASP.NET, EF Core).
 - 🎓 Estudando Engenharia de Software na <a href="https://www.unicesumar.edu.br/home/">UniCesumar</a>
 
